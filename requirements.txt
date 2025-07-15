@@ -1,0 +1,16 @@
+scikit-learn
+pandas
+streamlit
+pyrebase4
+streamlit-option-menu
+pandas
+plotly
+streamlit-aggrid
+streamlit-lottie
+pickle-mixin
+requests
+oauth2client
+urllib3
+matplotlib
+seaborn
+psycopg2
