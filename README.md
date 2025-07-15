@@ -34,8 +34,10 @@
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/namamu/HealthyMe.git
+   git clone https://github.com/Fuad208/Sistem-Rekomendasi-Menu-Makan-Sehat.git
 2. **Install Dependensi**
+   '''bash
    pip install -r requirements.txt
-3. **Jalankan Aplikasi**
+4. **Jalankan Aplikasi**
+   '''bash
    streamlit run app.py
